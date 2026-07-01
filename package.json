@@ -1,0 +1,9 @@
+{
+  "name": "telegram-claude-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A website controlled entirely from Telegram, with Claude generating content on demand.",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
